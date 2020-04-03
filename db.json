@@ -115,39 +115,5 @@
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 24.49,
     "isOnSale": false
-  },
-  {
-    "name": "Yellow Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 2.99,
-    "isOnSale": false
-  },
-  {
-    "name": "Blue Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 12.34,
-    "isOnSale": true
-  },
-  {
-    "name": "Red Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 42.23
-  },
-  {
-    "name": "Yellow Dress Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 29.99,
-    "isOnSale": false
-  },
-  {
-    "name": "Khani Jeans",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 9.95,
-    "isOnSale": true
   }
 ]
