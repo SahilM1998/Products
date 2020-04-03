@@ -1,28 +1,28 @@
 [
   {
-    "name": "Small Jeans",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 29.49,
+    "name": "Solid Men Hooded Neck Yellow T-Shirt",
+    "photo_url": "https://rukminim1.flixcart.com/image/800/960/k3khevk0/t-shirt/m/6/7/l-aff-1001-mustard-black-adiba-fashion-factory-original-imafmn8a7me5gej4.jpeg?q=50",
+    "description": "Please go through the size chart before placing the orders. Mark your solid impressions with ours ultra-soft, super cool hooded t-shirt. Wear this ultra-comfy full sleeve hooded t-shirt. Place in many ways with dark jeans, cuffed chinos. Its 100% soft cotton, solid color. Machine wash t-shirt, the material moves in every direction. Looks cool in every type of jacket so you look cool in winters as well. Its super dry and ultra-fashionable hooded must have t-shirt in your wardrobe. ",
+    "price": 294.00,
     "isOnSale": true
   },
   {
-    "name": "Black Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 19.49,
+    "name": "Lenovo Ideapad S145 APU Dual Core A6",
+    "photo_url": "https://rukminim1.flixcart.com/image/416/416/k6fd47k0pkrrdj/computer/t/a/x/lenovo-na-laptop-original-imafmsgx9tscutdu.jpeg?q=70",
+    "description": "Do you carry your work with you wherever you go? Are you looking for a new laptop to support your hectic lifestyle? If yes, this laptop with a thickness of 19.9 mm and weight of 1.85 Kg is worthy of your consideration. It features an AMD A6-9225 processor that is paired with 4 GB of RAM.",
+    "price": 19900.00,
     "isOnSale": false
   },
   {
-    "name": "Red Jeans",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 24.49,
-    "isOnSale": false
+    "name": "Realme 5i (Forest Green, 128 GB)  (4 GB RAM)",
+    "photo_url": "https://rukminim1.flixcart.com/image/416/416/k65d18w0pkrrdj/mobile/y/a/z/realme-5i-rmx2030-original-imafnsx6ekfqyq7v.jpeg?q=70",
+    "description": "4 GB RAM | 128 GB ROM |16.56 cm (6.52 inch) HD+ Display12MP + 8MP + 2MP + 2MP | 8MP Front Camera5000 mAh BatterySM6125 ProcessorSunrise DesignReverse Charging",
+    "price": 11000.00,
+    "isOnSale": true
   },
   {
-    "name": "Yellow Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
+    "name": "UltraBOOST 20 Running Shoes For Men  (Grey)",
+    "photo_url": "https://rukminim1.flixcart.com/image/800/960/k3t21zk0/shoe/s/s/r/eg0755-9-adidas-dshgry-grethr-blvime-original-imafmufd2nrvg93d.jpeg?q=50",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 2.99,
     "isOnSale": false
@@ -59,61 +59,13 @@
     "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 19.49,
-    "isOnSale": false
+    "isOnSale": true
   },
   {
     "name": "Red Jeans",
     "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
     "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
     "price": 24.49,
-    "isOnSale": false
-  },
-  {
-    "name": "Yellow Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 2.99,
-    "isOnSale": false
-  },
-  {
-    "name": "Blue Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 12.34,
     "isOnSale": true
-  },
-  {
-    "name": "Red Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 42.23
-  },
-  {
-    "name": "Yellow Dress Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 29.99,
-    "isOnSale": false
-  },
-  {
-    "name": "Small Jeans",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 29.49,
-    "isOnSale": true
-  },
-  {
-    "name": "Black Shirt",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 19.49,
-    "isOnSale": false
-  },
-  {
-    "name": "Red Jeans",
-    "photo_url": "https://firebasestorage.googleapis.com/v0/b/practices-1f45f.appspot.com/o/Capturea.PNG?alt=media&token=13cda3e3-994c-409c-834f-b2d5b9b126c5",
-    "description": "This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? This is a nice description. got it? ",
-    "price": 24.49,
-    "isOnSale": false
   }
 ]
